@@ -15,7 +15,7 @@ Today we will Perform CRUD Operations on a database
 
 - Github actions link: https://github.com/RamiZregat/basic-api-server/actions
 
-- Github pull request link: https://github.com/RamiZregat/basic-api-server/pull/1
+- Github pull request link: https://github.com/RamiZregat/basic-api-server/pull/3
 
 
 
