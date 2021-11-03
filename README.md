@@ -30,6 +30,7 @@ Today we will Perform CRUD Operations on a database
 - sqlite3
 
 ## How to start the server:  
+- pgstart
 - npm start
 
 ## What should I run on the terminal or postman?

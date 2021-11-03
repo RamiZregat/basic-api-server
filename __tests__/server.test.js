@@ -77,8 +77,8 @@ beforeAll(async () => {
     test('can add a cloth', async () => {
 
         const response = await mockRequest.post('/clothes').send({
-          mealName: 'Shawerma',
-          mealType: 'Sandwich'
+          clothType: 'pants',
+          clothSize: 'small'
         });
     
         expect(response.status).toBe(201);
